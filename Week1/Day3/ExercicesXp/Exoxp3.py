@@ -167,8 +167,8 @@ brooklyn_safari.sell_animal("Bear")
 brooklyn_safari.get_animals()
 
 # Tri & affichage des groupes
-brooklyn_safari.sort_animals()
-brooklyn_safari.get_groups()
+# brooklyn_safari.sort_animals()
+# brooklyn_safari.get_groups()
 
 
 
